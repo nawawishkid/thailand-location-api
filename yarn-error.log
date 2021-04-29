@@ -1,0 +1,36 @@
+Arguments: 
+  /home/nawawishkid/.nvm/versions/node/v14.15.4/bin/node /home/nawawishkid/.yarn/bin/yarn.js init
+
+PATH: 
+  /home/nawawishkid/projects-2021/gosaas/merchant-api/venv/bin:/home/nawawishkid/.rbenv/shims:/home/nawawishkid/.yarn/bin:/home/nawawishkid/.config/yarn/global/node_modules/.bin:/home/nawawishkid/.local/bin:/home/nawawishkid/.vscode-server/bin/3c4e3df9e89829dce27b7b5c24508306b151f30d/bin:/home/nawawishkid/.local/bin:/home/nawawishkid/.rbenv/shims:/home/nawawishkid/.yarn/bin:/home/nawawishkid/.config/yarn/global/node_modules/.bin:/home/nawawishkid/.local/bin:/home/nawawishkid/.nvm/versions/node/v14.15.4/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.Ubuntu20.04onWindows_2004.2021.222.0_x64__79rhkp1fndgsc:/mnt/c/Python38/Scripts/:/mnt/c/Python38/:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/ProgramData/chocolatey/bin:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/Docker/Docker/resources/bin:/mnt/c/ProgramData/DockerDesktop/version-bin:/mnt/c/Users/Nawawishkid/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/Nawawishkid/AppData/Local/Programs/Microsoft VS Code/bin:/snap/bin:/home/nawawishkid/.yarn/bin:/usr/local/go/bin:/home/nawawishkid/go/bin:/home/nawawishkid/.yarn/bin:/usr/local/go/bin:/home/nawawishkid/go/bin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  14.15.4
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (/home/nawawishkid/.yarn/lib/cli.js:137009:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:875:16)
+      at ReadStream.onkeypress (readline.js:213:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:345:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1144:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (internal/streams/readable.js:309:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
